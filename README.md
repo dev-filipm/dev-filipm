@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 About Me
+I'm a high-school junior studying CS.
 
-<!--
-**dev-filipm/dev-filipm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Tech Stack
+### Programming Languages
+![C](https://img.shields.io/badge/C-blue)
+![Java](https://img.shields.io/badge/Java-orange)
 
-Here are some ideas to get you started:
+### Web
+![HTML5](https://img.shields.io/badge/HTML5-red)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Frameworks
+![React](https://img.shields.io/badge/React-black)
+![Vite](https://img.shields.io/badge/Vite-purple)
+
+## ☁ DevOps
+![Docker](https://img.shields.io/badge/Docker-blue)
+
+## 🌍 Languages
+- Slovenian (native)
+- English (C1)
+- German (~A2)
